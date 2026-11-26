@@ -401,7 +401,7 @@ export default function App() {
             </p>
           </article>
         </div>
-        <p className="form-note" style={"marginTop": "18px"}>
+        <p className="form-note" style={{"marginTop": "18px"}}>
           {"These are illustrative solution areas, not claims of completed client projects. Final dashboards depend on the quality, permissions and structure of the source data."}
         </p>
       </div>
@@ -633,7 +633,7 @@ export default function App() {
             </button>
           </div>
         </div>
-        <p className="form-note" id="crOther" hidden={true} style={"marginBottom": "14px"}>
+        <p className="form-note" id="crOther" hidden={true} style={{"marginBottom": "14px"}}>
           {"Our detailed due-date view covers India. For other countries, tell us where your business is based through the enquiry form and we will confirm local deadlines with you."}
         </p>
         <div id="crOv" hidden={true}>
@@ -711,10 +711,10 @@ export default function App() {
               </tbody>
             </table>
           </div>
-          <p className="form-note" style={"marginTop": "14px"}>
+          <p className="form-note" style={{"marginTop": "14px"}}>
             {"Indicative recurring dates only. Dates move when they fall on holidays and are sometimes extended by notification; QRMP filers, professional tax (varies by state) and other cases differ. Please confirm current due dates before relying on them."}
           </p>
-          <p style={"marginTop": "18px"}>
+          <p style={{"marginTop": "18px"}}>
             <button className="btn btn-primary" type="button" id="icsBtn">
               {"Download calendar (.ics)"}
             </button>
